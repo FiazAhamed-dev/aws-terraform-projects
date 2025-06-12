@@ -14,4 +14,10 @@ This repository contains a collection of Infrastructure-as-Code (IaC) projects u
 - Git, VS Code
 
 ## 📂 Structure
-
+aws-terraform-projects/
+├── ec2-instance/
+│ ├── main.tf
+│ └── variables.tf
+├── s3-static-site/
+├── iam-user-role/
+├── vpc-networking/
